@@ -34,11 +34,10 @@ All three are MIT licensed. Grab the source or a pre-built binary from each proj
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/-.NET%20%2F%20WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java%20%2F%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## Author & Owner of EXLIRIX
 
-<img src="https://github.com/jurcaalexandrucristian.png" width="100" alt="Jurca Alexandru-Cristian"> <h3><a href="https://github.com/jurcaalexandrucristian">Jurca Alexandru-Cristian</a><h3>
+<img src="https://github.com/jurcaalexandrucristian.png" width="100" alt="Jurca Alexandru-Cristian"> <h4><a href="https://github.com/jurcaalexandrucristian">Jurca Alexandru-Cristian</a><h4>
 
 ## Get involved
 
