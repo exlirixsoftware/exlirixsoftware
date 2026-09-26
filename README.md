@@ -36,6 +36,10 @@ All three are MIT licensed. Grab the source or a pre-built binary from each proj
 ![Java](https://img.shields.io/badge/-Java%20%2F%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+## Author & Owner of EXLIRIX
+
+<img src="https://github.com/jurcaalexandrucristian.png" width="100" alt="Jurca Alexandru-Cristian">
+
 ## Get involved
 
 Found a bug or have a feature in mind? Open an issue on the relevant repo — [Tessel.js](https://github.com/exlirixsoftware/Tessel.js/issues), [Tessel.NET](https://github.com/exlirixsoftware/Tessel.NET/issues), or [Tessel4J](https://github.com/exlirixsoftware/Tessel4J/issues).
