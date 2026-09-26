@@ -3,7 +3,7 @@
 
   # EXLIRIX Software
 
-  **One Fluent-inspired design language, built natively for three platforms.**
+  **One Fluent-inspired design language, built natively for multiple platforms.**
 
   [![Tessel.js](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.js?label=Tessel.js&color=F7DF1E&logo=javascript&logoColor=black)](https://github.com/exlirixsoftware/Tessel.js/releases)
   [![Tessel.NET](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.NET?label=Tessel.NET&color=512BD4&logo=dotnet&logoColor=white)](https://github.com/exlirixsoftware/Tessel.NET/releases)
