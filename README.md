@@ -38,7 +38,7 @@ All three are MIT licensed. Grab the source or a pre-built binary from each proj
 
 ## Author & Owner of EXLIRIX
 
-<img src="https://github.com/jurcaalexandrucristian.png" width="100" alt="Jurca Alexandru-Cristian">
+<img src="https://github.com/jurcaalexandrucristian.png" width="100" alt="Jurca Alexandru-Cristian"> <h3><a href="https://github.com/jurcaalexandrucristian">Jurca Alexandru-Cristian</a><h3>
 
 ## Get involved
 
