@@ -23,7 +23,7 @@ Rather than shipping one library and wrapping it for other ecosystems, each plat
 ## What's new
 
 - **[Tessel.NET 1.2.0](https://github.com/exlirixsoftware/Tessel.NET/releases/tag/v.1.2.0)** — adds the `Timeline` control and the `AnimationTimeline` editing control for video, audio and animation tools.
-- **[Tessel.js 1.0.0, updated](https://github.com/exlirixsoftware/Tessel.js/releases/tag/v.1.0.0)** — restyled on Tailwind CSS v4 and brought up to date with Tessel.NET 1.2.0: 25 new controls, 60+ in total.
+- **[Tessel.js 1.1.0](https://github.com/exlirixsoftware/Tessel.js/releases/tag/v.1.1.0)** — restyled on Tailwind CSS v4 and brought up to date with Tessel.NET 1.2.0: 25 new controls, 60+ in total.
 
 ## Projects
 
