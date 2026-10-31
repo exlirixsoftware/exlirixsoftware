@@ -8,7 +8,7 @@
   [![Tessel.js](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.js?label=Tessel.js&color=F7DF1E&logo=javascript&logoColor=black)](https://github.com/exlirixsoftware/Tessel.js/releases)
   [![Tessel.NET](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.NET?label=Tessel.NET&color=512BD4&logo=dotnet&logoColor=white)](https://github.com/exlirixsoftware/Tessel.NET/releases)
   [![Tessel4J](https://img.shields.io/github/v/release/exlirixsoftware/Tessel4J?label=Tessel4J&color=ED8B00&logo=openjdk&logoColor=white)](https://github.com/exlirixsoftware/Tessel4J/releases)
-  [![TesselFX](https://img.shields.io/badge/TesselFX-not%20released-lightgrey?logo=openjdk&logoColor=white)](https://github.com/exlirixsoftware/TesselFX)
+  [![TesselFX](https://img.shields.io/github/v/release/exlirixsoftware/TesselFX?include_prereleases&label=TesselFX&color=ED8B00&logo=openjdk&logoColor=white)](https://github.com/exlirixsoftware/TesselFX/releases)
   [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/exlirixsoftware/Tessel.js/blob/main/LICENSE)
 </div>
 
@@ -24,6 +24,7 @@ Rather than shipping one library and wrapping it for other ecosystems, each plat
 
 - **[Tessel.NET 1.2.0](https://github.com/exlirixsoftware/Tessel.NET/releases/tag/v.1.2.0)** — adds the `Timeline` control and the `AnimationTimeline` editing control for video, audio and animation tools.
 - **[Tessel.js 1.1.0](https://github.com/exlirixsoftware/Tessel.js/releases/tag/v.1.1.0)** — restyled on Tailwind CSS v4 and brought up to date with Tessel.NET 1.2.0: 25 new controls, 60+ in total.
+- **[TesselFX 1.0.0](https://github.com/exlirixsoftware/TesselFX/releases/tag/v.1.0.0)** (pre-release) — the first release of the JavaFX port: a themeable style sheet for every standard JavaFX control, the core Tessel components, a window with a Tessel title bar, and the gallery.
 
 ## Projects
 
@@ -32,9 +33,9 @@ Rather than shipping one library and wrapping it for other ecosystems, each plat
 | [**Tessel.js**](https://github.com/exlirixsoftware/Tessel.js) | JavaScript · Web Components | Framework-free custom elements you can drop into any page — no build step, no dependencies. | [![Release](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.js?label=%20&color=informational)](https://github.com/exlirixsoftware/Tessel.js/releases/latest) |
 | [**Tessel.NET**](https://github.com/exlirixsoftware/Tessel.NET) | .NET · WPF | A native Fluent-style toolkit for WPF desktop applications. | [![Release](https://img.shields.io/github/v/release/exlirixsoftware/Tessel.NET?label=%20&color=informational)](https://github.com/exlirixsoftware/Tessel.NET/releases/latest) |
 | [**Tessel4J**](https://github.com/exlirixsoftware/Tessel4J) | Java · Swing | The same look and feel, brought to Java Swing applications. | [![Release](https://img.shields.io/github/v/release/exlirixsoftware/Tessel4J?label=%20&color=informational)](https://github.com/exlirixsoftware/Tessel4J/releases/latest) |
-| [**TesselFX**](https://github.com/exlirixsoftware/TesselFX) | Java · JavaFX | The same look and feel, built for JavaFX applications. | Not released yet |
+| [**TesselFX**](https://github.com/exlirixsoftware/TesselFX) | Java · JavaFX | The same look and feel, built for JavaFX applications. | [![Release](https://img.shields.io/github/v/release/exlirixsoftware/TesselFX?include_prereleases&label=%20&color=informational)](https://github.com/exlirixsoftware/TesselFX/releases) |
 
-All four are MIT licensed. Grab the source or a pre-built binary from each project's Releases page, linked above. TesselFX has no release yet, so build it from source for now.
+All four are MIT licensed. Grab the source or a pre-built binary from each project's Releases page, linked above.
 
 ## Tech stack
 
